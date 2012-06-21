@@ -1,7 +1,7 @@
 SVN Log Parser (for Node.js)
 ============================
 
-The SVN Log Parser module will .
+The SVN Log Parser module will parse SVN logs as into relevant JSON.
 
 
 Install as dependency
