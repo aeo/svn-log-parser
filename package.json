@@ -1,0 +1,19 @@
+{
+    "name" : "svn-log-parser"
+  , "version": "0.1.0"
+  , "engines": { "node": ">= 0.6.0" }
+  , "description": "Parses SVN logs as into relevant JSON."
+  , "author": "Jacob Swartwood"
+  , "keywords": [ "svn", "parse", "stream", "json", "xml" ]
+  , "main" : "lib/svn-log-parser.js"
+  , "repository": {
+        "type": "git"
+      , "url": "http://github.com/aeo/svn-log-parser.git"
+    }
+  , "bugs": {
+        "url": "http://github.com/aeo/svn-log-parser/issues"
+    }
+  , "licenses" : [
+        { "type" : "MIT",  "url" : "http://jacob.swartwood.info/license/" }
+    ]
+}
