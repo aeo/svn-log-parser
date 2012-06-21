@@ -20,7 +20,7 @@ Add to your `package.json` file:
       // ...
       "dependencies": {
         // ...
-        "svn-log-parser": "x"
+        "svn-log-parser": "*"
       }
     }
 
