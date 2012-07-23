@@ -1,6 +1,6 @@
 {
     "name" : "svn-log-parser"
-  , "version": "0.1.0"
+  , "version": "0.2.0"
   , "engines": { "node": ">= 0.6.0" }
   , "description": "Parses SVN logs as into relevant JSON."
   , "author": "Jacob Swartwood"
