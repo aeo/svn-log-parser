@@ -8,10 +8,10 @@
   , "main" : "lib/svn-log-parser.js"
   , "repository": {
         "type": "git"
-      , "url": "https://github.com/aeo/svn-log-parser.git"
+      , "url": "http://github.com/aeo/svn-log-parser.git"
     }
   , "bugs": {
-        "url": "https://github.com/aeo/svn-log-parser/issues"
+        "url": "http://github.com/aeo/svn-log-parser/issues"
     }
   , "licenses" : [
         { "type" : "MIT",  "url" : "http://jacob.swartwood.info/license/" }
