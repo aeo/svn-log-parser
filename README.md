@@ -35,7 +35,7 @@ Create a new parser and pass it a callback function and a string of SVN logs:
     parser(function( results ) {
       console.log("files", results.files);
       console.log("revs", results.revs);
-    }, svnLogOutput);
+    }, svnLogOutput).end();
 
 
 Stream all the Things
